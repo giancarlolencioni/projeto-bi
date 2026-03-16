@@ -12,6 +12,6 @@ Na primeira etapa do projeto foi criada uma medida em DAX para calcular o preço
 - Dataset em formato CSV
 
 ## Estrutura do repositório
-dataset/ -> arquivo CSV com os dados de vendas
-powerbi/ -> arquivo do relatório do Power BI
-dax/ -> arquivo com a medida DAX utilizada
+- dataset/ -> arquivo CSV com os dados de vendas
+- powerbi/ -> arquivo do relatório do Power BI
+- dax/ -> arquivo com a medida DAX utilizada
