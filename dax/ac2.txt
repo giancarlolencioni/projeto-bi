@@ -1,0 +1,3 @@
+Quantidade total por categoria:
+
+Total Quantity = SUM('SuperMarket Analysis'[Quantity])
