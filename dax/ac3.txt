@@ -1,0 +1,3 @@
+Vendas totais por cidade:
+
+Total Sales by City = SUM('SuperMarket Analysis'[Sales])
